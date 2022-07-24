@@ -1,7 +1,5 @@
 # About Me 
 
-My name is Ivan, and I am a second-year undergraduate software engineering student at the University of Westminster.
-
 ### 💻 I am currently working with the following languages and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
